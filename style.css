@@ -51,6 +51,8 @@ img{
    font-family: Georgia, 'Times New Roman', Times, serif;
     width: 400px;
     height: 100px;
+        color: #352318;
+
     /* background-color: red; */
     z-index: 999;
 
